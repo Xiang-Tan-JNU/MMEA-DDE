@@ -1,6 +1,6 @@
 classdef MMEA_DDE < ALGORITHM
 % <multi> <real/integer> <multimodal>
-% eps --- 0.3 --- Parameter for quality of the local Pareto front
+% eps --- 0.3 --- 
     methods
         function main(Algorithm, Problem)
             % Parameters for GNG network
